@@ -1,16 +1,35 @@
-name: ci
+name: Build & Deploy to Vercel
 on:
   push:
     branches:
-      - master
       - main
+      - master
+
 jobs:
-  deploy:
+  vercel:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      # 1. Checkout your code
+      - uses: actions/checkout@v3
         with:
-          python-version: 3.x
-      - run: pip install mkdocs-material
-      - run: mkdocs gh-deploy --force
+          fetch-depth: 0
+
+      # 2. Set up Python & install MkDocs
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install mkdocs mkdocs-material
+
+      # 3. Build the static site into ./site
+      - name: Build MkDocs site
+        run: mkdocs build --clean
+
+      # 4. Deploy to Vercel
+      - name: Deploy to Vercel
+        uses: amondnet/vercel-action@v20
+        with:
+          vercel-token: ${{ secrets.VERCEL_TOKEN }}
+          vercel-org-id:  ${{ secrets.VERCEL_ORG_ID }}
+          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+          vercel-args: "--prod"
