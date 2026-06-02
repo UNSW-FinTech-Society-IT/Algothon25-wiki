@@ -1,6 +1,6 @@
 # Resources
 
-**_Welcome to FinTechSoc's 2025 Algorithmic Trading Hackathon, in collaboration with Susquehanna!_**
+**_Welcome to FinTechSoc's 6 Algorithmic Trading Hackathon, in collaboration with Susquehanna!_**
 
 This competition will run over two and a half weeks, and is open to all university students. In teams of 2 to 4, students will need to submit their algorithmic model and strategic reasoning in response to price data. If successful in preliminary rounds, teams will proceed to finals Judging and present to traders from .
 
