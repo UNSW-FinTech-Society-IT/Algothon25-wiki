@@ -14,20 +14,18 @@
 
 ### Competition: Timeline
 
-5th June, TIME TBD - Pre Event Launch / Workshop 1
+8th  June,         - Applications open
 
-12th June, TIME TBD - Official Event Launch / Workshop 2
+30th June,         - Python Workshop
 
-29th June, TIME TBD - Registrations Close
+2nd  July,         - AI/ML and Data Analysis Workshop
 
-30th June, TIME TBD - Submission Deadline for Interim Update
+8th  July,         - Applications Close, Event Launch & Test Dataset Released
 
-2nd July, TIME TBD - Mid-Competition Event: Interim Leaderboard Update 1
+16th July,         - Webinar & General Round Dataset Released
 
-14th July, TIME TBD - General Round Submissions Due
+3rd August,        - Finalists Announced & Finalist Dataset Released 
 
-18th July, TIME TBD - Finalists Announcement
+10th August,       - Finalist Round Closes 
 
-25th July, TIME TBD - Final Round Submissions Due
-
-7th August, TIME TBD - Final Presentation
+13th August,       - Final Presentation

@@ -1,6 +1,6 @@
 # Judging Criteria
 
-### **Technical: 100% (Preliminary), 75% (Finals)**
+### **Technical: 100% (Preliminary), 50% (Finals)**
 
 Your algorithms will be assessed based on the quality of **overall performance**, as well as the creativity and originality of implementation.
 
@@ -12,7 +12,7 @@ The algorithm will be evaluated on the basis of what we believe is achievable wi
 
 [//]: # (Prioritising one metric over all others is inadvisable. However, feel free to create an algorithm that preferences achieving optimal results in one or two metrics as long as there is valid reasoning behind this &#40;e.g. minimise risk at the expense of lower return&#41;.)
 
-### **Presentation: 25% (Finals)**
+### **Presentation: 50% (Finals)**
 
 Your presentation will be assessed on whether or not there is evidence of:
 

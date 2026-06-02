@@ -8,7 +8,7 @@
 
 [//]: # "For full documentation visit [mkdocs.org](https://www.mkdocs.org)."
 
-Welcome to the sixth year of the Algothon - the first student-led algorithmic trading hackathon in Australia!
+Welcome to the seventh year of the Algothon - the first student-led algorithmic trading hackathon in Australia!
 
 This site contains the rules, guidelines and information required to help you complete Algothon 2026
 
