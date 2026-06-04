@@ -4,7 +4,7 @@
 
 This competition will run over two and a half weeks, and is open to all university students. In teams of 2 to 4, students will need to submit their algorithmic model and strategic reasoning in response to price data. If successful in preliminary rounds, teams will proceed to finals Judging and present to traders from .
 
-For any questions leading up to or throughout the duration of this competition, please email us at *careers.unswfintech+algothon@gmail.com*. Make sure to also check out our **[Facebook event page](https://fb.me/e/7zA3uZDuj)** for more information.
+For any questions leading up to or throughout the duration of this competition, please email us at *careers.unswfintech+algothon@gmail.com*. Make sure to also check out our **[Instagram page](https://www.instagram.com/unswfintechsoc/?hl=en)** for more information.
 
 <!-- ### **Slides and Resources**
 
