@@ -1,7 +1,7 @@
 site_name: Algothon 2026
 site_url: https://wiki.algothon.au/
-#repo_url: https://github.com/UNSW-FinTech-Society-IT/Algothon26-wiki.git Commented out for now until UPDATED
-#repo_name: Algothon 2026 Starter Code
+repo_url: https://github.com/UNSW-FinTech-Society-IT/algothon26-starter-code
+repo_name: Algothon 2026 Starter Code
 theme:
   features:
     - navigation.top
